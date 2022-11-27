@@ -10,7 +10,6 @@ while not me.isTired():
     me.code()
     me.commit()
     me.push()
-    me.sleep()
 ```
 
 <p align="center">Work on my website is ongoing...</p>
