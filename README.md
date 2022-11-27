@@ -43,7 +43,7 @@ while not me.isTired():
 
 <details>
   <summary>GitHub Stats</summary>
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=antonsakhanovych&show_icons=true&theme=tokyonight&hide_border=true">
-  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonsakhanovych&layout=compact">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=antonsakhanovych&show_icons=true&theme=tokyonight&hide_border=true">
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonsakhanovych&layout=compact">
 </details>
 
