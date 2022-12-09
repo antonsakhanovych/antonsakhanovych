@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm <a href="https://github.com/antonsakhanovych">Anton</a>!</h1>
-<h3 align="center"><a href=https://github.com/antonsakhanovych.gpg">GPG</a> | Student at <a href="https://pja.edu.pl/en/">PJATK</a></h3>
+<h3 align="center"><a href="https://github.com/antonsakhanovych.gpg">GPG</a> | Student at <a href="https://pja.edu.pl/en/">PJATK</a></h3>
 <p align="center"></p>
 
 
