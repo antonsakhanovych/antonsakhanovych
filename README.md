@@ -5,7 +5,7 @@
 
 ```py
 name = "Anton"
-me = Developer(name);
+me = Developer(name)
 while not me.isTired():
     me.code()
     me.commit()
